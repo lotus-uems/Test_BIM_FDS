@@ -10,7 +10,7 @@
 
 Пример визуализации данных:
 
-![alt text](https://github.com/lotus-uems/Test_BIM_FDS/blob/main/gbXML.png) 
+![alt text](https://github.com/lotus-uems/Test_BIM_FDS/blob/main/BIM_FDS.png) 
 
 Для связи по всем вопросам, пишите в телеграм: @TAU15
 
