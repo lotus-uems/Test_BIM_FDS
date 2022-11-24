@@ -13,3 +13,5 @@
 ![alt text](https://github.com/lotus-uems/Test_BIM_FDS/blob/main/gbXML.png) 
 
 Для связи по всем вопросам, пишите в телеграм: @TAU15
+
+Выполненное задание отправьте, пожалуйста, через эту форму: https://airtable.com/shrkZvrZGEVlzle5m 
